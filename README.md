@@ -1,6 +1,6 @@
 # midterrm_dseb_64A_solution
 
-## Code mẫu cho các bài trên LightOJ
+## Code mẫu cho các bài Midterm trên LightOJ
 
 Mọi người cố gắng chỉ xem giải khi thật sự không hiểu cách tư duy, còn nếu gặp các lỗi liên quan đến trình biên dịch như syntax,... thì không nên xem giải
 Chúc các bạn ôn thi vui vẻ
