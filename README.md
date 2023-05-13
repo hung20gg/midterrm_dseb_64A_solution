@@ -5,7 +5,10 @@
 Mọi người cố gắng chỉ xem giải khi thật sự không hiểu cách tư duy, còn nếu gặp các lỗi liên quan đến trình biên dịch như syntax,... thì không nên xem giải
 Chúc các bạn ôn thi vui vẻ
 
+
 Happy codding!
+
+Update: Có một số bài chưa kịp lên lời giải
 ___________________
 ### Donate me
 TK: 28910000357153 \
