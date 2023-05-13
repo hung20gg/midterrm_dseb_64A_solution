@@ -8,6 +8,6 @@ Chúc các bạn ôn thi vui vẻ
 Happy codding!
 ___________________
 ### Donate me
-TK: 28910000357153
-Ngân hàng: BIDV
-Chủ tài khoản: Nguyễn Quang Hưng
+TK: 28910000357153 \
+Ngân hàng: BIDV \
+Chủ tài khoản: Nguyễn Quang Hưng \
