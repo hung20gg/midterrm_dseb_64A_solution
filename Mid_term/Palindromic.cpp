@@ -1,5 +1,10 @@
-#include <iostream>
-#include<fstream>
+/*
+    Phương pháp
+    - Cách 1: Đảo ngược số rồi so sánh số cũ với số mới (Thầy Tuyến đã dạy trên lớp)
+    - Cách 2: So sánh chứ số đầu với chữ số cuối với nhau rồi tiến lại dần đến số ở giữa
+*/
+
+#include<iostream>
 using namespace std;
 void solve () {
     string num;
