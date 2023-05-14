@@ -16,3 +16,8 @@ ___________________
 TK: 28910000357153 \
 Ngân hàng: BIDV \
 Chủ tài khoản: Nguyễn Quang Hưng 
+
+**QR Code**
+
+<img src="https://github.com/hung20gg/midterrm_dseb_64A_solution/assets/110990347/bec1fb82-f81e-4740-b163-0ebb578e371c" style="width:25%" ></im>
+
